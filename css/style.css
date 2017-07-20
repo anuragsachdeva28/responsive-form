@@ -16,6 +16,17 @@ body, html{
  	font-family: 'Oxygen', sans-serif;
 }
 
+.link {
+  text-decoration: none;
+  color: #a6a6a6;
+  float: right;
+  font-size: 12px;
+  z-index: -1;
+  margin-top: -10px;
+  margin-right: -10px;
+ 
+}
+
 .main{
  	/*margin-top: 10%;*/
   margin:auto;
